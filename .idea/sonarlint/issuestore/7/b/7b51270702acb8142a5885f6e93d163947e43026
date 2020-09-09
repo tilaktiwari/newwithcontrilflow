@@ -1,0 +1,18 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÑö¨ûÿÿÿÿ8É”Å‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+O
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8‘Ã‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãÑö¨ûÿÿÿÿ8“àÃ‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úóïçşÿÿÿÿ8“àÃ‚Ç.
+r
+java:S1192"PDefine a constant instead of duplicating this literal "This is a block" 6 times.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106#"9Replace this use of System.out or System.err by a logger.(ƒşüÿÿÿÿ8İÛ·‚Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(İÆ¡¾øÿÿÿÿ8İÛ·‚Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(æö¡ßüÿÿÿÿ8İÛ·‚Ç.
+{
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(Ã¡à±úÿÿÿÿ8İÛ·‚Ç.

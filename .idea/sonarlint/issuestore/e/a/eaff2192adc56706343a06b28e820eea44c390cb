@@ -1,0 +1,8 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯õäú8ºÂä‚Ç.
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(Žû‘µ8€„Ù‚Ç.
+\
+java:S1854":Remove this useless assignment to local variable "newAge".(§ýªûúÿÿÿÿ8ÂŒò‚Ç.
+M
+java:S1481"+Remove this unused "newAge" local variable.(§ýªûúÿÿÿÿ8ÂŒò‚Ç.
