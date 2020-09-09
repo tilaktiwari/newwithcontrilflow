@@ -16,7 +16,8 @@ public class LearnConcatenation {
 		lam.display();
 		lam.num=39; // ReAssign value
 		System.out.println(lam.num);
-	
+		System.out.println(lam.num);
+
 	}
 
 }
