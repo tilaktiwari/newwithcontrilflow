@@ -15,3 +15,13 @@ I
 src/basic/LearnBlock.java,7\b\7b51270702acb8142a5885f6e93d163947e43026
 K
 src/basic/LearnCasting.java,e\a\eaff2192adc56706343a06b28e820eea44c390cb
+R
+"src/basic/LearnAccessModifier.java,1\2\124451d7a81328cda5f1ae72ba7665e6f26bf7db
+J
+src/basic/LearnObject.java,5\3\5390e247151b51434fb2763d9f36edc6b2df7ebf
+K
+src/basic/LearnScanner.java,d\c\dc6b572b418455081da178a18ac2a181ca0c7b59
+R
+"src/basic/LearnEscapeSequence.java,e\3\e3b44ab6570ae040fd96de18db221d841e4c6850
+O
+src/basic/LearnNestedClass.java,d\1\d1dbbbfa0faf03fb1ad675dc0f0cbafe86e5f5ec

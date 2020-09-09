@@ -1,8 +1,8 @@
 
-N	java:S106-"9Replace this use of System.out or System.err by a logger.(¨Ö–ê
-N	java:S106."9Replace this use of System.out or System.err by a logger.(¨Ö–ê
 N	java:S106'"9Replace this use of System.out or System.err by a logger.(¨Ö–ê
-N	java:S106+"9Replace this use of System.out or System.err by a logger.(¨Ö–ê
 ƒ
 java:S1192'"mDefine a constant instead of duplicating this literal "We are learning Java 353455m55 554 54 5445 5" 4 times.(¨Ö–ê
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¨Ö–ê
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(¨Ö–ê
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¨Ö–ê
 N	java:S106,"9Replace this use of System.out or System.err by a logger.(ˆÞæÚ

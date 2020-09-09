@@ -1,0 +1,12 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(§¢äÆüÿÿÿÿ8óÿé„Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Î‰”Ÿûÿÿÿÿ8Öú×„Ç.
+Y
+java:S1854"7Remove this useless assignment to local variable "age".(êŸ¼†úÿÿÿÿ8×üû„Ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÎàù8ËÁá„Ç.
+U	java:S106	"9Replace this use of System.out or System.err by a logger.(Öã·ô8›°Ü„Ç.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨¢ÀÈ8öŸæ„Ç.
+J
+java:S1481"(Remove this unused "age" local variable.(êŸ¼†úÿÿÿÿ8×üû„Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶¡øÿÿÿÿÿ8ï÷ï„Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¶¡øÿÿÿÿÿ8ô€Ö„Ç.
