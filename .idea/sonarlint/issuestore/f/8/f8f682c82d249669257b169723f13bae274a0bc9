@@ -1,0 +1,47 @@
+
+T	java:S106,"9Replace this use of System.out or System.err by a logger.(€À™8ËÈÀ©Ç.
+Z
+java:S1854G"8Remove this useless assignment to local variable "runa".(„å¨øÿÿÿÿ8‹ÕÄ©Ç.
+h
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 5 times.(Ù¿éûÿÿÿÿ8õú¨Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8õú¨Ç.
+Z
+java:S1854@"8Remove this useless assignment to local variable "num1".(Àù‘óúÿÿÿÿ8‹ÿ°¨Ç.
+M
+java:S14818"+Remove this unused "number" local variable.(¦³ûØûÿÿÿÿ8ÙŒÈ¨Ç.
+D
+java:S1481="'Remove this unused "lc" local variable.(®¼›Ï8ë„•¨Ç.
+T
+java:S1854C"7Remove this useless assignment to local variable "obj".(­êâë8õê¨Ç.
+U
+java:S1854E"8Remove this useless assignment to local variable "jack".(“ÔÂ8–Ô¡©Ç.
+n
+java:S1192&"LDefine a constant instead of duplicating this literal "My Name is " 3 times.(ËÓ€ùıÿÿÿÿ8± È©Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‘±ùÿÿÿÿ8éõà¨Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8ÓÊŸ¨Ç.
+F
+java:S1481E")Remove this unused "jack" local variable.(“ÔÂ8–Ô¡©Ç.
+T
+java:S1854?"7Remove this useless assignment to local variable "num".(Â•€¹8‹ÿ°¨Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8õú¨Ç.
+X	java:S125	"<This block of commented-out lines of code should be removed.(¥ûú·8Ø©¨Ç.
+K
+java:S1481G")Remove this unused "runa" local variable.(„å¨øÿÿÿÿ8‹ÕÄ©Ç.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(¨–Ä¶ıÿÿÿÿ8± È©Ç.
+S
+java:S1854="6Remove this useless assignment to local variable "lc".(®¼›Ï8ë„•¨Ç.
+M
+java:S1481I"+Remove this unused "shaila" local variable.(ˆ¾ÛÇøÿÿÿÿ8ø£Û©Ç.
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ËÓ€ùıÿÿÿÿ8Ìâ¿©Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8õú¨Ç.
+\
+java:S1854I":Remove this useless assignment to local variable "shaila".(ˆ¾ÛÇøÿÿÿÿ8ø£Û©Ç.
+E
+java:S1481?"(Remove this unused "num" local variable.(Â•€¹8‹ÿ°¨Ç.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8õú¨Ç.
+E
+java:S1481C"(Remove this unused "obj" local variable.(­êâë8õê¨Ç.
+\
+java:S18548":Remove this useless assignment to local variable "number".(¦³ûØûÿÿÿÿ8ÙŒÈ¨Ç.
+K
+java:S1481@")Remove this unused "num1" local variable.(Àù‘óúÿÿÿÿ8ñ÷±¨Ç.

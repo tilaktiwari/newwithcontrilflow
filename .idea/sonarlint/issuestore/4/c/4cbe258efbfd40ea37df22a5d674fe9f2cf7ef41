@@ -1,0 +1,24 @@
+
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(®áéÙþÿÿÿÿ8Šíœ®Ç.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.( åÿ®8àþÜ®Ç.
+n
+java:S1192:"QDefine a constant instead of duplicating this literal "Student name is " 3 times.( åÿ®8™•ò®Ç.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(Ä˜²ªøÿÿÿÿ8–¼¨¯Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8‚ëÎ­Ç.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.( åÿ®8¼¦Ô®Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(þÆŒãûÿÿÿÿ8‚ëÎ­Ç.
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(®áéÙþÿÿÿÿ8‚Ä®Ç.
+L
+java:S1444"*Make this "public static name" field final(åûŒåþÿÿÿÿ8à„Š¯Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(ï³Š²øÿÿÿÿ8‚ëÎ­Ç.
+Z	java:S106M"9Replace this use of System.out or System.err by a logger.(®áéÙþÿÿÿÿ8êêœ¯Ç.
+r
+java:S1192 "PDefine a constant instead of duplicating this literal "Total value is " 4 times.(®áéÙþÿÿÿÿ8ÂÒ³®Ç.
+i
+java:S1192:"LDefine a constant instead of duplicating this literal "Address is " 3 times.( åÿ®8™•ò®Ç.
+Z	java:S1062"9Replace this use of System.out or System.err by a logger.(®áéÙþÿÿÿÿ8úþÈ®Ç.
+U	java:S106U"9Replace this use of System.out or System.err by a logger.(Öœ„8Ò¹¤¯Ç.
+]	java:S125"<This block of commented-out lines of code should be removed.(·Ë¶˜ýÿÿÿÿ8‚ëÎ­Ç.
+]	java:S125E"<This block of commented-out lines of code should be removed.(…Ç’øÿÿÿÿ8ÒÃ÷®Ç.
+r
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.(åûŒåþÿÿÿÿ8à„Š¯Ç.

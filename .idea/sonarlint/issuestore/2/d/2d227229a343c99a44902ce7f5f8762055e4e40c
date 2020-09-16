@@ -1,0 +1,44 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Æ…Ş8¦ß¼ªÇ.
+L
+java:S1481"/Remove this unused "burgerName" local variable.(¤Õ´¸8Ñ¥¿ªÇ.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(¹ù•8Òñ¿ªÇ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¤³Ò½üÿÿÿÿ8Öë²ªÇ.
+L
+java:S1481""/Remove this unused "burgerName" local variable.(¤Õ´¸8Òñ¿ªÇ.
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(¬ÄŠİşÿÿÿÿ8³ÖÖªÇ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ş—µ·úÿÿÿÿ8¨ªÄªÇ.
+L
+java:S1481)"/Remove this unused "burgerName" local variable.(¤Õ´¸8¨ªÄªÇ.
+K
+java:S14812".Remove this unused "roisOrder" local variable.(Å÷ÁÇ8¦«Ç.
+L
+java:S1481N"/Remove this unused "burgerName" local variable.(¤Õ´¸8³ÖÖªÇ.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÿË›©8§Í¸ªÇ.
+Z
+java:S18542"=Remove this useless assignment to local variable "roisOrder".(Å÷ÁÇ8¦«Ç.
+m	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ÆÅ›8¦«Ç.
+L
+java:S1481B"/Remove this unused "burgerName" local variable.(¤Õ´¸8ğ¢ÒªÇ.
+Z	java:S106H"9Replace this use of System.out or System.err by a logger.(´º™Ôûÿÿÿÿ8ğ¢ÒªÇ.
+M
+java:S14811"0Remove this unused "aldrinOrder" local variable.(Œ·¶•8¦«Ç.
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(´º™Ôûÿÿÿÿ8ÑüÈªÇ.
+f
+java:S1192"IDefine a constant instead of duplicating this literal "Size is " 5 times.(Æ…Ş8¨ªÄªÇ.
+i
+java:S1192%"LDefine a constant instead of duplicating this literal "Topping is " 4 times.(¹ù•8ÑüÈªÇ.
+p
+java:S1192-"NDefine a constant instead of duplicating this literal "Burger Price " 3 times.(ş—µ·úÿÿÿÿ8ğ¢ÒªÇ.
+[
+java:S18543">Remove this useless assignment to local variable "SadiaOrder".(¶ÆÅ›8¦«Ç.
+L
+java:S14817"/Remove this unused "burgerName" local variable.(¤Õ´¸8ÑüÈªÇ.
+r
+java:S1192"PDefine a constant instead of duplicating this literal "Burger name is " 7 times.(¤³Ò½üÿÿÿÿ8Òñ¿ªÇ.
+\
+java:S18541"?Remove this useless assignment to local variable "aldrinOrder".(Œ·¶•8¦«Ç.
+L
+java:S14813"/Remove this unused "SadiaOrder" local variable.(¶ÆÅ›8¦«Ç.
+L
+java:S1481"/Remove this unused "burgerName" local variable.(¤Õ´¸8§Í¸ªÇ.
